@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExtremeAspSpreadsheet", "DevExtremeAspSpreadsheet\DevExtremeAspSpreadsheet.csproj", "{E52079AD-185E-4A22-8CAB-AB4A8B73AE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXWebApplication", "..\DXWebApplication\DXWebApplication.csproj", "{3132F3EF-156C-4E5A-8E40-DDA3BD29938C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E52079AD-185E-4A22-8CAB-AB4A8B73AE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52079AD-185E-4A22-8CAB-AB4A8B73AE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52079AD-185E-4A22-8CAB-AB4A8B73AE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52079AD-185E-4A22-8CAB-AB4A8B73AE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3132F3EF-156C-4E5A-8E40-DDA3BD29938C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3132F3EF-156C-4E5A-8E40-DDA3BD29938C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3132F3EF-156C-4E5A-8E40-DDA3BD29938C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3132F3EF-156C-4E5A-8E40-DDA3BD29938C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0881C5EB-0693-4343-B593-5BCBB4280A88}
+	EndGlobalSection
+EndGlobal

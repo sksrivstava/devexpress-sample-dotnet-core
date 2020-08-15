@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\san\\DevExtremeAspSpreadsheet\\DevExtremeAspSpreadsheet\\DevExtremeAspSpreadsheet.csproj": {}
+  },
+  "projects": {
+    "C:\\san\\DevExtremeAspSpreadsheet\\DevExtremeAspSpreadsheet\\DevExtremeAspSpreadsheet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\san\\DevExtremeAspSpreadsheet\\DevExtremeAspSpreadsheet\\DevExtremeAspSpreadsheet.csproj",
+        "projectName": "DevExtremeAspSpreadsheet",
+        "projectPath": "C:\\san\\DevExtremeAspSpreadsheet\\DevExtremeAspSpreadsheet\\DevExtremeAspSpreadsheet.csproj",
+        "packagesPath": "C:\\Users\\Suryansh\\.nuget\\packages\\",
+        "outputPath": "C:\\san\\DevExtremeAspSpreadsheet\\DevExtremeAspSpreadsheet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\san\\DevExtremeAspSpreadsheet\\NuGet.Config",
+          "C:\\Users\\Suryansh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "BuildBundlerMinifier": {
+              "target": "Package",
+              "version": "[3.2.447, )"
+            },
+            "DevExpress.AspNetCore.Dashboard": {
+              "target": "Package",
+              "version": "[20.1.6, )"
+            },
+            "Microsoft.Web.LibraryManager.Build": {
+              "target": "Package",
+              "version": "[2.1.76, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.112.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
